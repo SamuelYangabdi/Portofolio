@@ -10,16 +10,16 @@ My CV in [pdf](CV%20Samuel%20Yangabdi.pdf)
 This repository is made to showcase skills, share projects, and track my progress in related topics.
 
 ## Table of Contents
-- [About](https://github.com/SamuelYangabdi/Portofolio/edit/main/README.md#about)
-- [Projects](https://github.com/SamuelYangabdi/Portofolio/edit/main/README.md#projects)
-  - [Standard Analysis](https://github.com/SamuelYangabdi/Portofolio/edit/main/README.md#standard-analysis)
+- [About](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#about)
+- [Projects](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#projects)
+  - [Standard Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#standard-analysis)
     - [XXX, Tools:]()
-  - [Marketing Analysis](https://github.com/SamuelYangabdi/Portofolio/edit/main/README.md#marketing-analysis)
+  - [Marketing Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#marketing-analysis)
     - [XXX, Tools:]()
-  - [Financial Analysis](https://github.com/SamuelYangabdi/Portofolio/edit/main/README.md#financial-analysis)
+  - [Financial Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#financial-analysis)
     - [XXX, Tools:]()
-- [Certificates](https://github.com/SamuelYangabdi/Portofolio/edit/main/README.md#certificates)
-- [Contacts](https://github.com/SamuelYangabdi/Portofolio/edit/main/README.md#contacts)
+- [Certificates](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#certificates)
+- [Contacts](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#contacts)
 
 ## Projects
 ### Standard Analysis
