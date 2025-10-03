@@ -11,18 +11,20 @@ This repository is made to showcase skills, share projects, and track my progres
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Projects]()
-  - Standard Analysis
+- [Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#projects)
+  - [Standard Analysis]()
     - [XXX, Tools:]()
-  - Marketing Analysis
+  - [Marketing Analysis]()
     - [XXX, Tools:]()
-  - Financial Analysis
+  - [Financial Analysis]()
     - [XXX, Tools:]()
 - [Certificates]()
 - [Contacts]()
 
 ## Projects
-
+### Standard Analysis
+### Marketing Analysis
+### Financial Analysis
 ## Certificates
 
 ## Contacts
