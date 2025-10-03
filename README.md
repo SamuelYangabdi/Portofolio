@@ -10,7 +10,7 @@ My CV in [pdf](https://github.com/SamuelYangabdi/SamuelYangabdi/blob/main/CV%20S
 This repository is made to showcase skills, share projects, and track my progress in related topics.
 
 ## Table of Contents
-- [About]()
+- [About](https://github.com/SamuelYangabdi/Portfolio/blob/main/README.md#about)
 - [Projects]()
   - Standard Analysis
     - [XXX, Tools:]()
