@@ -5,7 +5,7 @@ Hi, call me Sam. I'm currently pursuing my studies at The Chinese University of 
 I am actively building my expertise in data analysis tools like Excel and R. I am eager to find an opportunity where I can apply these skills to solve real-world business problems.
 I am looking for a role that will challenge me to hone my analytical thinking and help me grow into a proficient data analyst.
 
-My CV in [pdf](https://github.com/SamuelYangabdi/SamuelYangabdi/blob/main/CV%20Samuel%20Yangabdi.pdf)
+My CV in [pdf](CV%20Samuel%20Yangabdi.pdf)
 
 This repository is made to showcase skills, share projects, and track my progress in related topics.
 
