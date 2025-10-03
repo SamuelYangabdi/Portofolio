@@ -10,8 +10,8 @@ My CV in [pdf](CV%20Samuel%20Yangabdi.pdf)
 This repository is made to showcase skills, share projects, and track my progress in related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#projects)
+- [About]()
+- [Projects]()
   - [Standard Analysis]()
     - [XXX, Tools:]()
   - [Marketing Analysis]()
