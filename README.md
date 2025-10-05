@@ -24,6 +24,9 @@ This repository is made to showcase skills, share projects, and track my progres
 ## Projects
 ### Standard Analysis
 ### Marketing Analysis
+**Topic:** Performance Analysis of Google Ads Campaigns for Data Analytics Courses in Hyderabad
+- Data (Source: _Kaggle_): 
+
 ### Financial Analysis
 ## Certificates
 
