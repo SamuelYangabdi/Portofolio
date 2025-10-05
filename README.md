@@ -25,7 +25,16 @@ This repository is made to showcase skills, share projects, and track my progres
 ### Standard Analysis
 ### Marketing Analysis
 **Topic:** Performance Analysis of Google Ads Campaigns for Data Analytics Courses in Hyderabad
+
 - Data (Source: _Kaggle_): [csv](GoogleAds_DataAnalytics_Sales_Uncleaned.csv)
+  
+- Goals: Evaluating the efficiency and profitability of Google Ads campaigns for data analytics courses by comparing campaign, keyword, and device-level performance, and uncovering actionable insights to optimize ad spending.
+  
+- Description: This analysis focuses on understanding how different elements of a Google Ads campaign, including device type, keyword usage, and campaign naming that influence advertising performance in Hyderabad. By cleaning and analyzing cost, conversion, and sales data, we will measure the efficiency of each component, uncover spending inefficiencies, and determine which strategies drive the highest return on investment. The goal is to provide data-driven recommendations to improve campaign outcomes and ad targeting precision.
+  
+- Tools: Excel, Power Query
+  
+- Results: 
 
 ### Financial Analysis
 ## Certificates
