@@ -13,7 +13,7 @@ This repository is made to showcase skills, share projects, and track my progres
 - [About](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#about)
 - [Projects](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#projects)
   - [Standard Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#standard-analysis)
-    - [Zara Product Performance & Merchandising Strategy Dashboard](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#topic-zara-product-performance--merchandising-strategy-dashboard) Tools: Excel
+    - [Zara Product Performance & Merchandising Strategy Dashboard](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#topic-zara-product-performance--merchandising-strategy-dashboard) (Tools: Excel)
   - [Marketing Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#marketing-analysis)
     - [XXX, Tools:]()
   - [Financial Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#financial-analysis)
