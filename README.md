@@ -35,7 +35,7 @@ This repository is made to showcase skills, share projects, and track my progres
 - Tools: Excel
   
 - Results:
-  - [Zara Product Performance & Merchandising Strategy Dashboard.xlsx]()
+  - [Zara Product Performance & Merchandising Strategy Dashboard.xlsx](Zara Product Performance & Merchandising Strategy Dashboard.xlsx)
   - [Strategic Analysis]()
 
 ### Financial Analysis
