@@ -24,9 +24,7 @@ This repository is made to showcase skills, share projects, and track my progres
 ## Projects
 ### Standard Analysis
 ### Marketing Analysis
-#### **Topic:** Zara Product Performance & Merchandising Strategy Dashboard
-
-- Data (Source: _Kaggle_): [csv]()
+#### **Topic:** Zara Product Performance & Merchandising Strategy Analysis
   
 - Goals: To extract actionable insights from Zara's product data to inform business strategy.
   
@@ -36,7 +34,7 @@ This repository is made to showcase skills, share projects, and track my progres
   
 - Tools: Excel
   
-- Results: 
+- Results: [Zara Product Performance & Merchandising Strategy Dashboard]()
 
 ### Financial Analysis
 ## Certificates
