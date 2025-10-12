@@ -24,7 +24,7 @@ This repository is made to showcase skills, share projects, and track my progres
 ## Projects
 ### Standard Analysis
 ### Marketing Analysis
-####**Topic:** Zara Product Performance & Merchandising Strategy Dashboard
+#### **Topic:** Zara Product Performance & Merchandising Strategy Dashboard
 
 - Data (Source: _Kaggle_): [csv]()
   
