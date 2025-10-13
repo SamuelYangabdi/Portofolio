@@ -26,7 +26,7 @@ This repository is made to showcase skills, share projects, and track my progres
 ### Marketing Analysis
 #### **Topic:** Zara Product Performance & Merchandising Strategy Analysis
   
-- Goals: To extract actionable insights from Zara's product data to inform business strategy.
+- Goals: To extract insights from Zara's product data to inform business strategy.
   
 - Description: This analysis begins with a raw, unprocessed Zara product dataset delivered in a semi-colon delimited format. The initial phase requires comprehensive data cleaning and preparation, which includes parsing the single-column data into a structured table, validating data types, and creating a crucial Revenue calculated field. Once prepared, the analysis will evaluate product performance, pricing strategy, and merchandising effectiveness to uncover actionable insights that can inform commercial decision-making.
   
