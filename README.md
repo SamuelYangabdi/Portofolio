@@ -15,7 +15,11 @@ This repository is made to showcase skills, share projects, and track my progres
   - [Standard Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#standard-analysis)
     - [Zara Product Performance & Merchandising Strategy Dashboard](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#topic-zara-product-performance--merchandising-strategy-analysis) (Tools: Excel)
   - [Marketing Analysis](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#marketing-analysis)
-    - [XXX, Tools:]()
+    - [Customer Segmentation Project, Tools:]()
+    - [Churn Prediction Model, Tools:]()
+    - [Campaign Response Prediction, Tools:]()
+    - [Price Optimization Analysis, Tools:]()
+    - [Customer Lifetime Value Prediction, Tools:]()
 - [Certificates](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#certificates)
 - [Contacts](https://github.com/SamuelYangabdi/Portofolio/blob/main/README.md#contacts)
 
